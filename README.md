@@ -19,4 +19,4 @@
 - **Educational Resources: Articles, videos, and tips on maintaining a halal diet and cooking delicious halal meals.**
 
 # Mission
-**Halal Fresh is committed to providing Muslim communities with easy access to fresh, high-quality halal products, supporting their dietary needs and lifestyle. Our mission is to make halal living convenient and enjoyable, fostering a healthier and more connected community.**
+**null is committed to providing Muslim communities with easy access to fresh, high-quality halal products, supporting their dietary needs and lifestyle. Our mission is to make halal living convenient and enjoyable, fostering a healthier and more connected community.**
