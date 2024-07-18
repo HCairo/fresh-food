@@ -1,0 +1,7 @@
+import 'package:freshfood/domain/entities/auth.dart';
+
+abstract class AuthRepository {
+  Future<void> login(String email, String password);
+  Future<void> register(String email, String password);
+  Future<void> updateUser(Auth user);
+}
